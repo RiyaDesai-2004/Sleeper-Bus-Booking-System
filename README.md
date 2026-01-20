@@ -1,4 +1,6 @@
 # Sleeper Ticket Booking System
+This project focuses on designing a web-based sleeper bus ticket booking flow using Figma. The system allows users to book sleeper bus tickets between Ahmedabad and Mumbai, select seats, optionally add meals during checkout, enter passenger details, and view booking confirmation.
+
 ## ⭐ Core Features
 
 View available seats
@@ -15,11 +17,9 @@ View booking status
 
 Cancel booking
 
-(Exactly aa bullet points bhi chale)
-
 ## 🧪 Test Cases
 
-#### ✔ Functional Test Cases
+### ✔ Functional Test Cases
 
 | Test Case ID | Description                     | Expected Result                      |
 |-------------|---------------------------------|--------------------------------------|
@@ -29,7 +29,7 @@ Cancel booking
 | TC04        | User submits valid details      | Booking confirmed                    |
 | TC05        | User skips meal                 | Booking continues without meal       |
 
-#### ⚠ Edge Test Cases
+### ⚠ Edge Test Cases
 
 | Scenario                     | Expected Behavior              |
 |------------------------------|--------------------------------|
